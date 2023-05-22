@@ -1,0 +1,15 @@
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\bin\Debug\net7.0\classe12_Repetidos.exe
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\bin\Debug\net7.0\classe12_Repetidos.deps.json
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\bin\Debug\net7.0\classe12_Repetidos.runtimeconfig.json
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\bin\Debug\net7.0\classe12_Repetidos.dll
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\bin\Debug\net7.0\classe12_Repetidos.pdb
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.csproj.AssemblyReference.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.AssemblyInfoInputs.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.AssemblyInfo.cs
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.csproj.CoreCompileInputs.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.dll
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\refint\classe12_Repetidos.dll
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.pdb
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\classe12_Repetidos.genruntimeconfig.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe12_Repetidos\obj\Debug\net7.0\ref\classe12_Repetidos.dll

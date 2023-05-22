@@ -1,0 +1,15 @@
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\bin\Debug\net7.0\classe4_palindrome.exe
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\bin\Debug\net7.0\classe4_palindrome.deps.json
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\bin\Debug\net7.0\classe4_palindrome.runtimeconfig.json
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\bin\Debug\net7.0\classe4_palindrome.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\bin\Debug\net7.0\classe4_palindrome.pdb
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.csproj.AssemblyReference.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.AssemblyInfoInputs.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.AssemblyInfo.cs
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.csproj.CoreCompileInputs.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\refint\classe4_palindrome.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.pdb
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\classe4_palindrome.genruntimeconfig.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe4_palindrome\obj\Debug\net7.0\ref\classe4_palindrome.dll

@@ -1,0 +1,30 @@
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.csproj.AssemblyReference.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.AssemblyInfoInputs.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.AssemblyInfo.cs
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.csproj.CoreCompileInputs.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.exe
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.deps.json
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.runtimeconfig.json
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.pdb
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\refint\teste.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.pdb
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.genruntimeconfig.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\ref\teste.dll
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.exe
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.deps.json
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.runtimeconfig.json
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.dll
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\bin\Debug\net7.0\teste.pdb
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.csproj.AssemblyReference.cache
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.AssemblyInfoInputs.cache
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.AssemblyInfo.cs
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.csproj.CoreCompileInputs.cache
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.dll
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\refint\teste.dll
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.pdb
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\teste.genruntimeconfig.cache
+H:\Meu Drive\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\teste\obj\Debug\net7.0\ref\teste.dll

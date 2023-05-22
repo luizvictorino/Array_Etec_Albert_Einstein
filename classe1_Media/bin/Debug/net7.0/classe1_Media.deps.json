@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "classe1_Media/1.0.0": {
+        "runtime": {
+          "classe1_Media.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classe1_Media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

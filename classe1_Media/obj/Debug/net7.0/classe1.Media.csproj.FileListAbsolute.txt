@@ -1,0 +1,15 @@
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\bin\Debug\net7.0\classe1.Media.exe
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\bin\Debug\net7.0\classe1.Media.deps.json
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\bin\Debug\net7.0\classe1.Media.runtimeconfig.json
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\bin\Debug\net7.0\classe1.Media.dll
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\bin\Debug\net7.0\classe1.Media.pdb
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.csproj.AssemblyReference.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.AssemblyInfoInputs.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.AssemblyInfo.cs
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.csproj.CoreCompileInputs.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.dll
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\refint\classe1.Media.dll
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.pdb
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\classe1.Media.genruntimeconfig.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe1.Media\obj\Debug\net7.0\ref\classe1.Media.dll

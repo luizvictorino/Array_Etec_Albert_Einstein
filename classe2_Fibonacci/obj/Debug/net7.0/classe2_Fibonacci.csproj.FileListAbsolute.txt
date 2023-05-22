@@ -1,0 +1,45 @@
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.AssemblyInfo.cs
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.exe
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.deps.json
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.runtimeconfig.json
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.dll
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.pdb
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.dll
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\refint\classe2_Fibonacci.dll
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.pdb
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.genruntimeconfig.cache
+C:\Users\estagioadm2\Documents\LUIZ\ETEC\PA\exercicios\classe2_Fibonacci\obj\Debug\net7.0\ref\classe2_Fibonacci.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.exe
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.deps.json
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.runtimeconfig.json
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.pdb
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.csproj.AssemblyReference.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.AssemblyInfoInputs.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.AssemblyInfo.cs
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.csproj.CoreCompileInputs.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\refint\classe2_Fibonacci.dll
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.pdb
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.genruntimeconfig.cache
+E:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\ref\classe2_Fibonacci.dll
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.exe
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.deps.json
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.runtimeconfig.json
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.dll
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\bin\Debug\net7.0\classe2_Fibonacci.pdb
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.csproj.AssemblyReference.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.AssemblyInfoInputs.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.AssemblyInfo.cs
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.csproj.CoreCompileInputs.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.dll
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\refint\classe2_Fibonacci.dll
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.pdb
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\classe2_Fibonacci.genruntimeconfig.cache
+D:\ETEC - Desenvolvimento de Sistemas\1° Módulo\PA - Programação e Algorítmo\Exercícios\exercicios_Array\classe2_Fibonacci\obj\Debug\net7.0\ref\classe2_Fibonacci.dll

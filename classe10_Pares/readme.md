@@ -29,10 +29,6 @@ Na array existem 22 valores pares.
 27 19 48 16 35 71 85 97 11 23 12 9 98 47 82 6 68 43 53 87 58 91 77 28 70 40 3 67 13 41 29 87 58 38 57 85 16 92 99
 ```
 
-```
-Isto é apenas um teste
-```
-
 A saída acima indica que existem 22 valores pares na array, seguida da exibição dos números contidos no vetor.
 
 ## Considerações Finais
